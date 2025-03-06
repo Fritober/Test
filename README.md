@@ -1,5 +1,7 @@
 # Test
 
-Les étapes à suivre pour lancer le programme
+Les étapes à suivre pour lancer le programme : 
 
-'''pip install -r requirements.txt'''
+'''
+git clone https://github.com/Fritober/Test.git
+'''
